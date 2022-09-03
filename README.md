@@ -1,6 +1,6 @@
 ## About Backend
 
-Project Management Web App
+Employees Management Web App
 
 ## prerequisites
 
@@ -23,22 +23,6 @@ Project Management Web App
   - `php artisan serve`
 - Navigate to 'localhost:8000' and see application is running
 
-## Api's Notes
-
-- api link for postman collection
-  - your_serve\api\get-projects
-  - your_serve\api\get-issues 
-  - your_serve\api\get-user-issues?user_id
-
-## database Notes
-- admin-login: email => `admin1@example.com` , password => `password`
-
-## Additional Notes
-- you should craete folder name `files` in storge/app/public  dirctoey
-- thare are a PHP Decomntor Created in app folder  for http files
-- if you want create a new one i provided to you a PHPDocomentor Script 
-  you can use this command  php phpDocumentor.phar -d <`Folder you docement`>. -t <`dirctory save`> 
-   to make it  
 
    
 
